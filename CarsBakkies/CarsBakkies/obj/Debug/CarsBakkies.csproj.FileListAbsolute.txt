@@ -1,0 +1,7 @@
+D:\DropBox\CSIS\CSIS2664\2020\Projects\Project 2 (Abstract factory)\CarsBakkies\bin\Debug\CarsBakkies.exe.config
+D:\DropBox\CSIS\CSIS2664\2020\Projects\Project 2 (Abstract factory)\CarsBakkies\bin\Debug\CarsBakkies.exe
+D:\DropBox\CSIS\CSIS2664\2020\Projects\Project 2 (Abstract factory)\CarsBakkies\bin\Debug\CarsBakkies.pdb
+D:\DropBox\CSIS\CSIS2664\2020\Projects\Project 2 (Abstract factory)\CarsBakkies\obj\Debug\CarsBakkies.csprojAssemblyReference.cache
+D:\DropBox\CSIS\CSIS2664\2020\Projects\Project 2 (Abstract factory)\CarsBakkies\obj\Debug\CarsBakkies.csproj.CoreCompileInputs.cache
+D:\DropBox\CSIS\CSIS2664\2020\Projects\Project 2 (Abstract factory)\CarsBakkies\obj\Debug\CarsBakkies.exe
+D:\DropBox\CSIS\CSIS2664\2020\Projects\Project 2 (Abstract factory)\CarsBakkies\obj\Debug\CarsBakkies.pdb
